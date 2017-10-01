@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Google</title>
+  <link href="css/style.css"  type="text/css" rel="stylesheet">
+  <link rel="shortcut icon" type="image/x-icon" href="https://cdn4.iconfinder.com/data/icons/new-google-logo-2015/400/new-google-favicon-128.png">
+</head>
+<body>
+  <div id="top">
+    <div id="top-buttons">
+        <a href="#">Gmail</a>
+        <a href="#">Images</a>
+        <div id="options">
+          <a href=></a>
+        </div>
+        <button>Sign in</button>
+      </div>
+    </div>
+    <div id="search">
+      <img src="https://media.giphy.com/media/b2crTW5A0zJf2/giphy.gif" alt="Google Logo>"
+      <br>
+      <div id="text">
+        <input type="text">
+        <a href="#">
+          <img id="mic" src="http://www.941thevoice.com/wp-content/uploads/2015/08/KBXL-LOGO-Mic-Only-Favicon-21.png">
+        </a>
+      </div>
+      <br>
+      <div id="buttons">
+        <button>Google Search</button>
+        <button>I'm Feeling Lucky</button>
+      </div>
+    </div>
+    <div id="bottom">
+      <div id="bottom-left">
+        <a href="#">Advertising</a>
+        <a href="#">Business</a>
+        <a href="#">About</a>
+      </div>
+      <div id="bottom-right">
+        <a href="#">Privacy</a>
+        <a href="#">Terms</a>
+        <a href="#">Settings</a>
+      </div>
+  </div>
+</body>
+</html>
